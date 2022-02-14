@@ -1,0 +1,1 @@
+SELECT * FROM project_3_ironhack.salaries_not_encoded;
